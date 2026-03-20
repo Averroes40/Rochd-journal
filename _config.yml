@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Rochd Journal
+description: Mes idées et expériences
+
+sass:
+  style: compressed
